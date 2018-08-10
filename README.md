@@ -1,4 +1,3 @@
-[![axisj-contributed](https://img.shields.io/badge/AXISJ.com-Contributed-green.svg)](https://github.com/axisj) ![](https://img.shields.io/badge/Tulum-Brant&Tiffy-red.svg)
 
 
 Spring-Boot based Amazon Simple Storage Service(S3) API Sample
@@ -9,9 +8,7 @@ Spring-Boot based Amazon Simple Storage Service(S3) API Sample
 ```
 Spring Boot + Spring Cloud AWS
 ```
-
-###Description
-http://brantiffy.axisj.com/archives/131
+om/archives/131
 
 ###How to Open
 ```
